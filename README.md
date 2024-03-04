@@ -1,8 +1,8 @@
-# README - Store API using NestJS
+# README - User API using NestJS
 
 ## Introduction
 
-This project is an API for an online store developed using the NestJS framework. It provides basic CRUD (Create, Read, Update, Delete).
+This project is an API for user authentication developed using the NestJS framework. It provides basic CRUD (Create, Read, Update, Delete).
 
 ## Technologies Used
 
